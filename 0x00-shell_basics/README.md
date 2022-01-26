@@ -1,2 +1,1 @@
-This is a readme file 
-# holberton-system_engineering-devops
+0-current_working_directory prints full path to working directory
