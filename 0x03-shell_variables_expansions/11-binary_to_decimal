@@ -1,3 +1,2 @@
 #!/bin/bash
-echo $(($BREATH ** $LOVE))
 bc <<< "ibase=2;$BINARY"
