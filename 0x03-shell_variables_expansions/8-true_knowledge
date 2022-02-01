@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($SHLVL + 1))
+echo $(($TRUEKNOWLEDGE + 128))
