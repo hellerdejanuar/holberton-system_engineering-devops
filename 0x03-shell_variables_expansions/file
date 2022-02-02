@@ -1,0 +1,8 @@
+ Surround the matched (non-empty) strings, matching lines,
+              context lines, file names, line numbers, byte offsets, and
+              separators (for fields and groups of context lines) with
+              escape sequences to display them in color on the terminal.
+              The colors are defined by the environment variable
+              GREP_COLORS.  The deprecated environment variable
+              GREP_COLOR is still supported, but its setting does not
+              have priority.  WHEN is never, always, or auto.
