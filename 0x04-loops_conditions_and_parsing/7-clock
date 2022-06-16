@@ -2,7 +2,7 @@
 # this script prints 10 times "Best School"
 i=0
 j=0
-while (( i < 12 ))
+while (( i <= 12 ))
 do
 	j=0
 	while (( j < 60 ))
