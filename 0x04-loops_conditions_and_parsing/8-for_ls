@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# List content of dir, just the name 
+for name in *
+do
+	echo "${name#*-}"
+done
